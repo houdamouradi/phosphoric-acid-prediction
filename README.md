@@ -79,15 +79,9 @@ Les trois échelons (J, K, L) sont tous fortement corrélés à la production.
 
 ---
 
-## Rapport complet
-
-Le rapport détaillé du stage est disponible : [`Rapport_de_stage_OCP.pdf`](Rapport_de_stage_OCP.pdf)
-
----
-
 ## Confidentialité des données
 
-Les données utilisées dans ce projet sont la **propriété confidentielle d'OCP Group** et ne peuvent être partagées publiquement. Le repository contient uniquement le **notebook avec la méthodologie**, les **visualisations** et le **rapport**.
+Les données utilisées dans ce projet sont la **propriété confidentielle d'OCP Group** et ne peuvent être partagées publiquement. Le repository contient uniquement la **méthodologie** et les **visualisations**.
 
 ---
 
